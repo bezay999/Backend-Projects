@@ -1,0 +1,6 @@
+@RiderProjects_HostAddress = http://localhost:5051
+
+GET {{RiderProjects_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
