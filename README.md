@@ -9,10 +9,7 @@ short codes, featuring built-in link availability validation before storage.
 - Persistent Storage: Integrated with Entity Framework Core and pre-configured for SQLite.
 - API Documentation: Built-in Swagger UI for easy testing and integration.
 
-🛡️ Password & Cipher Tools
-Password & Cipher Tools is a utility-focused microservice built with ASP.NET Core. It provides developers with ready-to-use API endpoints for cryptographic text manipulation and high-entropy password generation.
-
-### Key Features
+### Password & Cipher Tools
 
 Password & Cipher Tools is a utility-focused microservice built with ASP.NET Core. It provides developers with ready-to-use API endpoints for cryptographic text manipulation and high-entropy password generation.
 
